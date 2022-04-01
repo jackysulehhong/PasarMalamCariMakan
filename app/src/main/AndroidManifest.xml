@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.pasarmalamcarimakan">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/icon"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".pasarlayout_2"></activity>
+        <activity android:name=".pasarlayout_1" />
+        <activity
+            android:name=".pasar_layout1"
+            android:label="@string/title_activity_pasar_layout1"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".Models.pasar_layout1" />
+        <activity android:name=".pasar2_map" />
+        <activity android:name=".pasar1_map" />
+        <activity android:name=".Pasar2_Main" />
+        <activity android:name=".Pasar1_Main" />
+        <activity android:name=".Contact" />
+        <activity android:name=".About" />
+        <activity android:name=".recommended" />
+        <activity android:name=".Login" />
+        <activity android:name=".SignUp" />
+        <activity android:name=".Greetings">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".MainActivity" />
+
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="AIzaSyDPKJF5K9sCe-w6hRBe_CQk_xLew9CjCpE" />
+    </application>
+
+</manifest>

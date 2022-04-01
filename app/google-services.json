@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "704767157680",
+    "firebase_url": "https://audio-caller-c9e63.firebaseio.com",
+    "project_id": "audio-caller-c9e63",
+    "storage_bucket": "audio-caller-c9e63.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704767157680:android:1fcbc11d0364f17a",
+        "android_client_info": {
+          "package_name": "com.example.appcallerfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "704767157680-47ebhmnc2kqe0a4nt7b0g5t1snti8mu6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpImmejTXZVUk3-2HIL9bopFbuF7kFOtE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "704767157680-47ebhmnc2kqe0a4nt7b0g5t1snti8mu6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704767157680:android:39979e3277145497",
+        "android_client_info": {
+          "package_name": "com.example.pasarmalamcarimakan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "704767157680-47ebhmnc2kqe0a4nt7b0g5t1snti8mu6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpImmejTXZVUk3-2HIL9bopFbuF7kFOtE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "704767157680-47ebhmnc2kqe0a4nt7b0g5t1snti8mu6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,99 @@
+<resources>
+    <string name="app_name">Pasar Malam Cari Makan</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="pasar1_address">Taman Putra Damai,\n 47301 \n Petaling Jaya,\n Selangor</string>
+    <string name="pasar2_address">Taman OUG,\n 58200 Kuala Lumpur,\n Federal Territory of Kuala Lumpur</string>
+    <string name="register_msg"><u>Dont have an account? Click here to Register!</u>.</string>
+    <string name="pasar2_name">Pasar Malam OUG</string>
+    <string name="pasar1_name">Pasar Malam Lembah Subang</string>
+    <string name="header2">Enjoy your Stay :)</string>
+    <string name="header1">Welcome to Pasar Malam Cari Makan!</string>
+    <string name="title_activity_pasar_layout1">pasar_layout1</string>
+<string name="pasar_mainstreet">This is the front main street view of Pasar Lembah Subang.\n\nThe stalls continue onwards and then shifts to the left.\nThere is alot of food choices available ranging from Malay to Chinese food.\n</string>
+
+    <string name="pasar_ayam">
+Ayam grilled with Madu(honey) that taste fabulous with rice. \n\nAyam Madu KALLOLO special:\n1 ketul = RM 1.50\n3 ketul = RM 5.00\n6 ketul = RM 10.00\n
+
+</string>
+
+    <string name="pasar_samosa">
+Specially made Samosa, Karipaps and Popiah Goreng that taste fabulous alongside their homemade Sambal Kicap.\n\nSamosa,Popiah and Karipap:\n3 ketul = RM 3.00\n6 ketul = RM 6.00\n12 ketul = RM 9.00\n
+
+</string>
+
+    <string name="pasar_roti">
+Hand-Made Roti John that contain a variety of ingredients to enhance the underlying taste\n\nRoti John Hand-Made:\nRoti John Ayam = RM 5.50\nRoti John aging = RM 5.50\nRoti John Cheezy = RM 7.00\nRoti John Special= RM10.00\n
+
+</string>
+
+
+    <string name="pasar_drink">
+A convinient Juice Stand that sells Mango and Sugercane juice.\n\nPer Bungkus:\n1 Bungkus = RM 3.00\n2 Bungkus = RM 7.00\n3 Bungkus = RM 10.00\n
+
+</string>
+
+    <string name="pasar_putu">
+Home-Made Putu Bambu that comes in its signature white coating of coconut shaving.\n\nPer Packet:\n1 packet = RM 4.50\n\n
+
+
+
+</string>
+
+    <string name="pasar_bakar">
+Freshly made Bakar Ayam, Kerang and Ikan that is wrapped in a tinfoil.\n\nAyam,Kerang and Ikan:\nAyam Bakar=RM 5.00\nIkan Bakar=RM 7.00\nKerang Bakar=RM 7.00\n
+
+
+
+</string>
+
+    <string name="Apam">
+Apam Balik Special Version China Edition\n1 Piece=RM 0.60\n3 Piece=RM 1.70\n6 Pieces=RM 2.20\n
+
+
+
+</string>
+
+
+    <string name="cheechong">
+Delicious Chee Chong Fang Sold:\n1 Chee Chong Fang=RM 10:00\n
+
+
+
+</string>
+
+
+    <string name="snack_stuff">
+Delicious Assortment Of Snacks:\nPrices of Snack are highly flexible and are dependent on the Vendor\nSomedays its cheaper and Vice Versa.\n
+
+
+</string>
+
+
+    <string name="dim">
+Special Dimsum:1 Piece=RM 2.00\n3 Piece=RM 3.50\n6 Piece=RM 5.50\n
+
+
+</string>
+
+
+    <string name="stuff_cd">
+Wide Arrange of Movies ranging from Chinese to Malay type is sold here:\n1 Movie=RM 5.00\n3 Movies= Rm 14.00\n6 Movies= RM 30.00\n
+
+
+
+</string>
+
+
+    <string name="laksa_info">
+Handmade Laksa with a chinese twist:\n1 Bowl=RM 6.00\n2 Bowls=RM 11.00\n3 Bowls=RM 15.00\n
+
+</string>
+
+    <string name="pasar_goreng">
+Ayam Goreng Istimewa:Butter Chicken=RM 6.00\nChili Stirred Chicken=RM 5.00\nFried Chicken=RM 7.00\nSalted Egg Chicken=RM 10.00\n
+
+</string>
+</resources>
